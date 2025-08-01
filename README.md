@@ -18,7 +18,7 @@ A lightweight Node.js utility that extracts personal details from scanned Aadhaa
 
 ### 1. Clone the repository
 
-git clone https://github.com/Athul-krishna03/Aadhaar_OCR_Scanner.git
+git clone [https://github.com/Athul-krishna03/Aadhaar_OCR_Scanner.git](https://github.com/Athul-krishna03/Aadhaar_OCR_Scanner.git)
 cd Aadhaar_OCR_Scanner
 npm i
 node index.js
